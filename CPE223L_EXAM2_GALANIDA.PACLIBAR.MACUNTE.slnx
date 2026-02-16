@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CPE223L_EXAM2_GALANIDA.PACLIBAR.MACUNTE/Exam.App.csproj" />
+  <Project Path="Exam.Domain/Exam.Domain.csproj" />
+  <Project Path="Exam.Infrastructure/Exam.Infrastructure.csproj" />
+</Solution>
